@@ -1,0 +1,78 @@
+c:\users\vavabe\documents\visual studio 2015\Projects\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.csprojResolveAssemblyReference.cache
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.Cache
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\Vavabe\Documents\Visual Studio 2015\Projects\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\USER\Desktop\Elyshkin_Variant4\Елышкин_Вариант4\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\USER\Desktop\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\USER\Desktop\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\USER\Desktop\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\USER\Desktop\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\Acer\Desktop\Лабораторная работа 3\6303\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\Acer\Desktop\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.exe
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\bin\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.exe
+C:\Users\Acer\Desktop\МИВС\Лабораторная работа 3\Важова 4 вар!\EventModel\EventModel\obj\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\bin\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.exe
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.pdb
+C:\Users\Acer\Desktop\лабки\МИВС\Borodakova 4 variant\EventModel\obj\Debug\EventModel.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.pdb
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.pdb

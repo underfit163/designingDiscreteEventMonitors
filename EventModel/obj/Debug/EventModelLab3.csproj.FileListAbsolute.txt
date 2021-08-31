@@ -1,0 +1,18 @@
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\bin\Debug\EventModel.pdb
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModelLab3.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModelLab3.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Borodakova 4 variant\EventModel\obj\Debug\EventModel.pdb
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\bin\Debug\EventModel.exe.config
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\bin\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\bin\Debug\EventModel.pdb
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModelLab3.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModel.Form1.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModel.Properties.Resources.resources
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModelLab3.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModel.exe
+C:\Users\163ty\Desktop\БАКАЛАВРЫ_МОДЕЛИРОВАНИЕ\Lab3\Тышкун 3 лаба 4 вариант\EventModel\obj\Debug\EventModel.pdb
